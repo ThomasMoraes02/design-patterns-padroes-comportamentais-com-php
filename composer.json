@@ -1,0 +1,17 @@
+{
+    "name": "thomas/padroes-comportamentais",
+    "authors": [
+        {
+            "name": "Thomas Moraes",
+            "email": "thomas.moraes@semexe.com"
+        }
+    ],
+    "require": {
+    },
+    "autoload": {
+        "psr-4": {
+            "Alura\\DesignPatterns\\" : "src/"
+        }
+    }
+
+}
